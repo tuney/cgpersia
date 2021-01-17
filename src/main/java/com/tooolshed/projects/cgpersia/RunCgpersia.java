@@ -8,8 +8,8 @@ import java.util.List;
 public class RunCgpersia {
 
  private WebThreadPoolExecutor webThreadPoolExecutor = new WebThreadPoolExecutor();
- public static final int WEBSITE_PAGES = 300;
- 
+ public static final int WEBSITE_PAGES = 150;
+
  public static void main(String[] args) throws Exception {
 
   RunCgpersia runAppWow = new RunCgpersia();
